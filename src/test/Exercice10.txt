@@ -1,0 +1,1 @@
+A alternativa correta é a letra D (Calcula e exibe a média de 5 números lidos)
