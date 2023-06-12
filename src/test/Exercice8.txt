@@ -1,0 +1,1 @@
+A Alternativa correta é a letra C (SOMA = SOMA + TAB(X) * (11-X))

@@ -1,0 +1,31 @@
+Pseudocódigo:
+
+    Pontos fortes:
+        - Fácil entendimento
+        - Execelente técnica para desenvolver o raciocínio lógico
+        - Póssivel uso da linguagem nativa
+    Pontos Fracos:
+        - Não se adéqua ao mundo real e/ou ao mercado de trabalho
+        - Possivel dificuldade na transição para uma linguagem de programação
+
+
+Fluxograma: 
+
+    Pontos fortes:
+        - Fácil visualização
+        - Fácil entendimento
+        - Rápido desenvolvimento
+    Pontos fracos: 
+        - Difícil correção de bugs
+        - Menor precisão de dados
+        - Dependência em usar apenas oque determinada plataforma tem a oferecer
+
+
+Descrição Narrativa: 
+
+    Pontos fortes: 
+        - Fácil entendimento
+        - Póssivel uso da linguagem nativa
+    Pontos fracos: 
+        - Problemas na hora da interpretação da lógica
+        - Difícil visualização
